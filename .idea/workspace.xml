@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/log/test.log" line="2" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9b7b59c-234e-4164-8d72-d69d3090284d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/testcase/api/studyCenter/check_study_center.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/api/studyCenter/check_study_center.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/api/studyCenter/reading/articleTrain/get_all_article_train_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/api/studyCenter/reading/articleTrain/get_all_article_train_answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/api/studyCenter/reading/articleTrain/post_all_article_train_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/api/studyCenter/reading/articleTrain/post_all_article_train_answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/api/studyCenter/reading/section_train/get_all_sec_train_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/api/studyCenter/reading/section_train/get_all_sec_train_answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/api/studyCenter/reading/section_train/post_all_sec_train_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/api/studyCenter/reading/section_train/post_all_sec_train_answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/api/studyCenter/sysListening/word_dict/get_word_dict_all_answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/api/studyCenter/sysListening/word_dict/get_word_dict_all_answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/api/studyCenter/words_lists/ci_hui/put_all_words_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/api/studyCenter/words_lists/ci_hui/put_all_words_lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/api/wordBook/get_wordBook.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/api/wordBook/get_wordBook.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CEE_api_test$startLearning.coverage" NAME="startLearning Coverage Results" MODIFIED="1539063298270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/studyCenter" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$login_post_step1.coverage" NAME="login_post_step1 Coverage Results" MODIFIED="1538987918876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/login/login_branch" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$getTaskInfo_step4.coverage" NAME="getTaskInfo_step4 Coverage Results" MODIFIED="1539066664355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/studyCenter" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$shen_du_sou_suo.coverage" NAME="shen_du_sou_suo Coverage Results" MODIFIED="1541659547983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/suite/leetcode" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1541636918793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/suite/leetcode" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$getMeasureWords_step2.coverage" NAME="getMeasureWords_step2 Coverage Results" MODIFIED="1538983639924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/measure/words" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$postman_userStudyCenter_get.coverage" NAME="postman_userStudyCenter_get Coverage Results" MODIFIED="1538997423319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/login/postman_login" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$py_test_in_test_gloable_py.coverage" NAME="py.test in test_gloable.py Coverage Results" MODIFIED="1538963076139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1540459648762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/studyCenter/words_lists/ci_hui" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$getUserInfo__1_.coverage" NAME="getUserInfo (1) Coverage Results" MODIFIED="1538980049607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/login/postman_login" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$getUserInfo__2_.coverage" NAME="getUserInfo (2) Coverage Results" MODIFIED="1538980294466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/login" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$get_userStudyCenter.coverage" NAME="get_userStudyCenter Coverage Results" MODIFIED="1538982546666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/login" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$log.coverage" NAME="log Coverage Results" MODIFIED="1538962265081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$sum_iter.coverage" NAME="sum_iter Coverage Results" MODIFIED="1541591555621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/suite/leetcode" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$config.coverage" NAME="config Coverage Results" MODIFIED="1538974986148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$check_study_center.coverage" NAME="check_study_center Coverage Results" MODIFIED="1542905752145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/studyCenter" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$get_userStudyCenter_step3.coverage" NAME="get_userStudyCenter_step3 Coverage Results" MODIFIED="1538997556285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/login/login_branch" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$postman_login_post.coverage" NAME="postman_login_post Coverage Results" MODIFIED="1538974268364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/login/postman_login" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$getTaskInfo_step2.coverage" NAME="getTaskInfo_step2 Coverage Results" MODIFIED="1539063169532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/studyCenter" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$test.coverage" NAME="test Coverage Results" MODIFIED="1542904364182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/measure" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$getMeasureID_step1.coverage" NAME="getMeasureID_step1 Coverage Results" MODIFIED="1538988999495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/measure" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$getMeasureInfo_step1.coverage" NAME="getMeasureInfo_step1 Coverage Results" MODIFIED="1539059568773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/measure" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$getMeasureListen_step1.coverage" NAME="getMeasureListen_step1 Coverage Results" MODIFIED="1539052325983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/measure/listen" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$get_all_sen_analysis_answer.coverage" NAME="get_all_sen_analysis_answer Coverage Results" MODIFIED="1539084368760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/studyCenter/reading/sen_analysis" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$two_seprate.coverage" NAME="two_seprate Coverage Results" MODIFIED="1541753641606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/suite/leetcode" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$login_post.coverage" NAME="login_post Coverage Results" MODIFIED="1538980811281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/login" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$two_sum.coverage" NAME="two_sum Coverage Results" MODIFIED="1540886978273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/suite/leetcode" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$py_test_in_test_study_center_py.coverage" NAME="py.test in test_study_center.py Coverage Results" MODIFIED="1539067802188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/studyCenter" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1541497736044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/suite/leetcode" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$getMeasureWrite_step1.coverage" NAME="getMeasureWrite_step1 Coverage Results" MODIFIED="1539055485433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/measure/write" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$find_small.coverage" NAME="find_small Coverage Results" MODIFIED="1541585169137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/suite/leetcode" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$learn_center.coverage" NAME="learn_center Coverage Results" MODIFIED="1542621260209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/page/tests" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$login_all_api.coverage" NAME="login_all_api Coverage Results" MODIFIED="1538997092200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/login" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$getUserInfo.coverage" NAME="getUserInfo Coverage Results" MODIFIED="1538977455505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/login" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$getMeasureRead_step1.coverage" NAME="getMeasureRead_step1 Coverage Results" MODIFIED="1539053503954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/measure/read" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$getUserInfo_step2.coverage" NAME="getUserInfo_step2 Coverage Results" MODIFIED="1538988049128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/login/login_branch" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$get_wordBook.coverage" NAME="get_wordBook Coverage Results" MODIFIED="1542265608479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/api/wordBook" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$logger__1_.coverage" NAME="logger (1) Coverage Results" MODIFIED="1538962727581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_httprunner/HttpRunner/httprunner" />
+    <SUITE FILE_PATH="coverage/CEE_api_test$logger.coverage" NAME="logger Coverage Results" MODIFIED="1538961972604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CEE_api_test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/api/measure/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="devices_cfg.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/devices_cfg.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="check_study_center.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/check_study_center.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="327" selection-start-line="327" selection-end-line="327" />
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+                <element signature="e#2434#3488#0" />
+                <element signature="e#3612#10754#0" />
+                <element signature="e#3994#10683#0" />
+                <element signature="e#4053#5095#0" />
+                <element signature="e#5187#6126#0" />
+                <element signature="e#6218#8045#0" />
+                <element signature="e#8137#9193#0" />
+                <element signature="e#9285#10683#0" />
+                <element signature="e#10820#14394#0" />
+                <element signature="e#14460#20577#0" />
+                <element signature="e#14579#20577#0" />
+                <element signature="e#20643#23581#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>self.headers</find>
+      <find>URL</find>
+      <find>NEW</find>
+      <find>all_answer</find>
+      <find>steps4_data</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/testcase/api" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/sysListening/all_listening_interface.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/writing/word_spell/get_word_spell_all_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/sysListening/sen_fill/get_sen_fill_all_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/getTaskInfo_step4.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/grammar/mulChoice/get_mul_choice_all_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/writing/zhenti_xiezuo/get_word_spell_all_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/writing/all_wrt_interface.py" />
+        <option value="$PROJECT_DIR$/utils/test.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/grammar/all_gra_interface.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/reading/clozeTest/get_all_clozeTest_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/grammar/graFill/get_all_gra_fill_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/writing/zhenti_xiezuo/get_zhenti_xiezuo_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/reading/all_reading_interface.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/reading/sen_cloze75/get_all_cloze75_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/reading/sen_analysis/get_all_sen_analysis_answer.py" />
+        <option value="$PROJECT_DIR$/utils/logger.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/reading/sen_cloze75/post_all_cloze75_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/writing/zhenti_xiezuo/post_zhenti_xiezuo_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/reading/sen_analysis/post_all_sen_analysis_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/sysListening/word_dict/post_all_word_dict_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/sysListening/word_trans/post_all_word_tran_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/sysListening/sen_fill/post_all_sen_fill_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/writing/word_spell/post_all_word_spell_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/grammar/mulChoice/post_all_mul_choice_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/grammar/graFill/post_all_gra_fill_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/reading/clozeTest/post_all_clozeTest_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/measure/test.py" />
+        <option value="$PROJECT_DIR$/config/devices_cfg_cus.yml" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/words_lists/ci_hui/put_all_words_lists.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/words_lists/ci_hui/test.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/reading/section_train/get_all_sec_train_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/reading/section_train/post_all_sec_train_answer.py" />
+        <option value="$PROJECT_DIR$/cut_code.py" />
+        <option value="$PROJECT_DIR$/testcase/suite/leetcode/two_sum.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/reading/articleTrain/get_all_article_train_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/reading/articleTrain/post_all_article_train_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/sysListening/word_dict/get_word_dict_all_answer.py" />
+        <option value="$PROJECT_DIR$/testcase/suite/leetcode/test.py" />
+        <option value="$PROJECT_DIR$/testcase/suite/leetcode/find_small.py" />
+        <option value="$PROJECT_DIR$/testcase/suite/leetcode/sum_iter.py" />
+        <option value="$PROJECT_DIR$/testcase/suite/leetcode/iter_count_arr.py" />
+        <option value="$PROJECT_DIR$/testcase/suite/leetcode/quick_sort.py" />
+        <option value="$PROJECT_DIR$/testcase/suite/leetcode/serach.py" />
+        <option value="$PROJECT_DIR$/testcase/suite/leetcode/shen_du_sou_suo.py" />
+        <option value="$PROJECT_DIR$/log/test.log" />
+        <option value="$PROJECT_DIR$/testcase/suite/leetcode/two_seprate.py" />
+        <option value="$PROJECT_DIR$/testcase/api/wordBook/get_wordBook.py" />
+        <option value="$PROJECT_DIR$/testcase/api/login/login_branch/login_post_step1.py" />
+        <option value="$PROJECT_DIR$/testcase/api/studyCenter/check_study_center.py" />
+        <option value="$PROJECT_DIR$/config/devices_cfg_prep.yml" />
+        <option value="$PROJECT_DIR$/config/devices_cfg.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-12" />
+    <option name="width" value="1941" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="measure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="studyCenter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="wordBook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="interface" type="462c0819:PsiDirectoryNode" />
+              <item name="words_lists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="study_center" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="all_task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="all_task" type="462c0819:PsiDirectoryNode" />
+              <item name="all_task_funs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="suite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="suite" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CEE_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CEE_api_test" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\liuda\Desktop\CEE\API_test\CEE_api_test\config" />
+      <recent name="C:\Users\liuda\Desktop\CEE_api_test\config" />
+      <recent name="C:\Users\liuda\Desktop\CEE_api_test\testcase\api\wordBook" />
+      <recent name="C:\Users\liuda\Desktop\CEE_api_test\testcase\api\studyCenter\reading\sen_cloze75" />
+      <recent name="C:\Users\liuda\Desktop\CEE_api_test\testcase\api\studyCenter\reading" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\liuda\Desktop\CEE_api_test\testcase\api\login" />
+      <recent name="C:\Users\liuda\Desktop\CEE_api_test\testcase\api\login\login_branch" />
+      <recent name="C:\Users\liuda\Desktop\CEE_api_test\testcase\api\login\postman_login" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.check_study_center">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="CEE_api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="check_study_center" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CEE_api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/api/studyCenter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/api/studyCenter/check_study_center.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CEE_api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/api/measure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/api/measure/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.check_study_center" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.check_study_center" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9b7b59c-234e-4164-8d72-d69d3090284d" name="Default" comment="" />
+      <created>1538125700058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538125700058</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_test_gloable_py - 2018.10.08 at 09h 44m 37s.xml">
+      <configuration name="py.test in test_gloable.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_study_center_py - 2018.10.09 at 14h 50m 03s.xml">
+      <configuration name="py.test in test_study_center.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="7" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5004042" side_tool="true" weight="0.49839228" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.34554973" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32984293" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32809773" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.74725276" visible="true" weight="0.33953112" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32902184" />
+      <window_info id="Structure" order="1" sideWeight="0.25274727" side_tool="true" weight="0.26919967" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965096" />
+      <window_info id="Favorites" order="2" sideWeight="0.5015674" side_tool="true" weight="0.3047696" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.74725276" visible="true" weight="0.33953112" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32902184" />
+      <window_info id="Structure" order="1" sideWeight="0.25274727" side_tool="true" weight="0.26919967" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.34554973" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32984293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965096" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32809773" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5004042" side_tool="true" weight="0.49839228" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" sideWeight="0.5015674" side_tool="true" weight="0.3047696" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/suite/leetcode/sum_iter.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/suite/leetcode/sum_iter.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="30" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/check_study_center.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+            <element signature="e#2434#3488#0" />
+            <element signature="e#3612#10754#0" />
+            <element signature="e#3994#10683#0" />
+            <element signature="e#4053#5095#0" />
+            <element signature="e#5187#6126#0" />
+            <element signature="e#6218#8045#0" />
+            <element signature="e#8137#9193#0" />
+            <element signature="e#9285#10683#0" />
+            <element signature="e#10820#14394#0" />
+            <element signature="e#14460#20577#0" />
+            <element signature="e#14579#20577#0" />
+            <element signature="e#20643#23581#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/measure/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/check_study_center.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="212" column="89" selection-start-line="212" selection-start-column="89" selection-end-line="212" selection-end-column="89" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+            <element signature="e#2434#3488#0" />
+            <element signature="e#3612#10754#0" />
+            <element signature="e#3994#10683#0" />
+            <element signature="e#4053#5095#0" />
+            <element signature="e#5187#6126#0" />
+            <element signature="e#6218#8045#0" />
+            <element signature="e#8137#9193#0" />
+            <element signature="e#9285#10683#0" />
+            <element signature="e#10820#14394#0" />
+            <element signature="e#14460#20577#0" />
+            <element signature="e#14579#20577#0" />
+            <element signature="e#20643#23581#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/devices_cfg.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/page/tests/learn_center.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/devices_cfg_test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="55" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/measure/words/getMeasureWords_step1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="36" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/measure/grammer/getMeasureGra_step1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/measure/grammer/postmeasureGra_step2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/measure/listen/postmeasureListen_step2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/measure/read/getMeasureRead_step1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/login/login_branch/getUserInfo_step2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/devices_cfg-cp.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="51" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/reading/sen_analysis/post_all_sen_analysis_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/reading/sen_analysis/get_all_sen_analysis_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="51" column="26" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="51" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/sysListening/long_conv/get_long_conv_all_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/reading/clozeTest/get_all_clozeTest_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/words_lists/all_cihui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/words_lists/ci_hui/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/reading/section_train/get_all_sec_train_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/grammar/graFill/post_all_gra_fill_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/reading/section_train/post_all_sec_train_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/words_lists/ci_hui/put_all_words_lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cut_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="24" lean-forward="true" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/reading/articleTrain/get_all_article_train_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="73" column="26" lean-forward="true" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/reading/articleTrain/post_all_article_train_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="18" column="63" lean-forward="true" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/grammar/mulChoice/post_all_mul_choice_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/grammar/mulChoice/get_mul_choice_all_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="44" column="52" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/sysListening/word_dict/get_word_dict_all_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/test.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="2" column="2299" selection-start-line="2" selection-start-column="2299" selection-end-line="2" selection-end-column="2299" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/suite/leetcode/sum_iter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/suite/leetcode/two_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/suite/leetcode/find_small.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/suite/leetcode/quick_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/suite/leetcode/serach.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/suite/leetcode/shen_du_sou_suo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/suite/leetcode/two_seprate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="66" column="12" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/suite/leetcode/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/devices_cfg_cus.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/devices_cfg_test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/measure/listen/getMeasureListen_step1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/page/tests/learn_center.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/wordBook/get_wordBook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="69" column="22" lean-forward="true" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/login/login_branch/login_post_step1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/measure/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/api/studyCenter/check_study_center.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="327" selection-start-line="327" selection-end-line="327" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+            <element signature="e#2434#3488#0" />
+            <element signature="e#3612#10754#0" />
+            <element signature="e#3994#10683#0" />
+            <element signature="e#4053#5095#0" />
+            <element signature="e#5187#6126#0" />
+            <element signature="e#6218#8045#0" />
+            <element signature="e#8137#9193#0" />
+            <element signature="e#9285#10683#0" />
+            <element signature="e#10820#14394#0" />
+            <element signature="e#14460#20577#0" />
+            <element signature="e#14579#20577#0" />
+            <element signature="e#20643#23581#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/devices_cfg_prep.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/devices_cfg.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
